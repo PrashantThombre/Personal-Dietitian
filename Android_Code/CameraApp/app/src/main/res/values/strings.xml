@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="title_activity_confirm">ConfirmActivity</string>
+</resources>
